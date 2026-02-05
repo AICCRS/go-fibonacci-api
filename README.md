@@ -10,6 +10,7 @@ A simple Go API to generate a Fibonacci sequence.
 - Dockerized with a multi-stage build
 
 ## Requirements
+## adding a line to commit
 
 - Go 1.24+
 - Docker (optional)
