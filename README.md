@@ -11,6 +11,7 @@ A simple Go API to generate a Fibonacci sequence.
 
 ## Requirements
 ## adding a line to commit
+## a second line
 
 - Go 1.24+
 - Docker (optional)
